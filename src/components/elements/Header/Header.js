@@ -8,13 +8,13 @@ const Header = () => (
       <Link to='/udemy_React-Movie-App'>
         <img
           className='rmdb-logo'
-          src='/images/reactMovie_logo.png'
+          src='/udemy_React-Movie-App/images/reactMovie_logo.png'
           alt='rmdb-logo'
         />
       </Link>
       <img
         className='rmdb-tmdb-logo'
-        src='/images/tmdb_logo.png'
+        src='/udemy_React-Movie-App/images/tmdb_logo.png'
         alt='tmdb-logo'
       />
     </div>
