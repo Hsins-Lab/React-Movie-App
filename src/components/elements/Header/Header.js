@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => (
   <div className='rmdb-header'>
     <div className='rmdb-header-content'>
-      <Link to='/'>
+      <Link to='/udemy_React-Movie-App'>
         <img
           className='rmdb-logo'
           src='/images/reactMovie_logo.png'

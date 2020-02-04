@@ -6,7 +6,7 @@ import './Navigation.css';
 const Navigation = ({ movie }) => (
   <div className='rmdb-navigation'>
     <div className='rmdb-navigation-content'>
-      <Link to='/'>
+      <Link to='/udemy_React-Movie-App'>
         <p>Home</p>
       </Link>
       <p>/</p>
