@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b95e2e2ce38907f0bac2f4ae4f5fca2",
+    "revision": "bfc552412f4428b9ad71fa155cb76763",
     "url": "/udemy_React-Movie-App/index.html"
   },
   {
-    "revision": "927ca00d98068ad10294",
+    "revision": "c3c28d92de45f7b63182",
     "url": "/udemy_React-Movie-App/static/css/main.6acc8b70.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udemy_React-Movie-App/static/js/2.7748129a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "927ca00d98068ad10294",
-    "url": "/udemy_React-Movie-App/static/js/main.e8e600c7.chunk.js"
+    "revision": "c3c28d92de45f7b63182",
+    "url": "/udemy_React-Movie-App/static/js/main.53e87683.chunk.js"
   },
   {
     "revision": "b3657835f628cea24ce2",
